@@ -11,7 +11,6 @@ import './style.css';
 import Contact from './components/Contact';
 import Shop from './components/Shop';
 
-
 function App() {
   return (
     <div className="App">
